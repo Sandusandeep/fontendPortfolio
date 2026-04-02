@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/fontendPortfolio/static/css/main.6259ce8e.css",
+    "main.js": "/fontendPortfolio/static/js/main.fc06bec9.js",
+    "static/js/453.20359781.chunk.js": "/fontendPortfolio/static/js/453.20359781.chunk.js",
+    "static/media/Screenshot 2026-01-06 120948.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 120948.444f30a5461370c2ade8.png",
+    "static/media/Screenshot 2026-01-06 1209482.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 1209482.235bbfd2a03c9d4fdb32.png",
+    "static/media/Screenshot 2026-01-05 2336211.png": "/fontendPortfolio/static/media/Screenshot 2026-01-05 2336211.2085b5b61f8decb66994.png",
+    "static/media/Screenshot 2026-01-06 120749.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 120749.78f1802722a020470a97.png",
+    "static/media/Screenshot 2026-01-06 121138.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 121138.f2998fdd899c3707b5d9.png",
+    "static/media/Screenshot 2026-01-06 1211381.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 1211381.0251589a4bb8a4a2a06e.png",
+    "static/media/Screenshot 2026-01-06 121119.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 121119.6836ff7ba4ef2aea33c5.png",
+    "static/media/Screenshot 2026-01-06 1211191.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 1211191.6c2bded3194531407ae1.png",
+    "static/media/Screenshot 2026-01-06 121202.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 121202.47fe170d3502417f223f.png",
+    "static/media/Screenshot 2026-01-06 1212022.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 1212022.7d8548d3ac88d250ee35.png",
+    "static/media/Screenshot 2026-01-06 121043.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 121043.9e5ada079ba2ca6eef84.png",
+    "static/media/Screenshot 2026-01-06 1210431.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 1210431.53ea328d1272ece1e35d.png",
+    "static/media/screenshot-2025-11-17-195630.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-195630.8730511b7879914988d6.png",
+    "static/media/screenshot-2025-11-17-202929.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-202929.58036f60ca9a05789697.png",
+    "static/media/Screenshot 2025-12-30 190637.png": "/fontendPortfolio/static/media/Screenshot 2025-12-30 190637.b54a033fbf4a183f3437.png",
+    "static/media/Screenshot 2025-12-30 141233gg.png": "/fontendPortfolio/static/media/Screenshot 2025-12-30 141233gg.08c7f27388a950a5cca0.png",
+    "static/media/Screenshot 2025-12-30 190747.png": "/fontendPortfolio/static/media/Screenshot 2025-12-30 190747.ae16b50aa619ad9e2228.png",
+    "static/media/Screenshot 2025-12-30 190747nh.png": "/fontendPortfolio/static/media/Screenshot 2025-12-30 190747nh.cad32cd3e740ce4a7cca.png",
+    "static/media/screenshot-2025-11-17-175416.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-175416.d96285f51e3105cfe533.png",
+    "static/media/screenshot-2025-11-17-195151.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-195151.38da2d6888ea7fec84b5.png",
+    "static/media/screenshot-2025-11-17-195116.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-195116.88854b42f9dace2d106d.png",
+    "static/media/screenshot-2025-11-17-175250.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-175250.051ee970cc6c06b74de1.png",
+    "static/media/screenshot-2025-11-17-175445.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-175445.9c3da4735903e89cc9ae.png",
+    "static/media/screenshot-2025-11-17-195234.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-195234.1632526e907668216e9b.png",
+    "index.html": "/fontendPortfolio/index.html",
+    "main.6259ce8e.css.map": "/fontendPortfolio/static/css/main.6259ce8e.css.map",
+    "main.fc06bec9.js.map": "/fontendPortfolio/static/js/main.fc06bec9.js.map",
+    "453.20359781.chunk.js.map": "/fontendPortfolio/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6259ce8e.css",
+    "static/js/main.fc06bec9.js"
+  ]
+}
