@@ -1,10 +1,5 @@
 import "./App.css";
-import {
-  HashRouter as Router,
-  Routes,
-  Route,
-  Link
-} from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import ProjectPage from "./ProjectPage";
 
 function importAll(r) {
@@ -12,21 +7,21 @@ function importAll(r) {
 }
 
 const todoImages = importAll(
-  require.context("./assets/images/todo-screens", false, /\.(png|jpe?g|svg)$/)
+  require.context("./assets/images/todo-screens", false, /\.(png|jpe?g|svg)$/),
 );
 const ecommerceImages = importAll(
   require.context(
     "./assets/images/e-commerce-screens",
     false,
-    /\.(png|jpe?g|svg)$/
-  )
+    /\.(png|jpe?g|svg)$/,
+  ),
 );
 const formImages = importAll(
   require.context(
     "./assets/images/formSubmission-screens",
     false,
-    /\.(png|jpe?g|svg)$/
-  )
+    /\.(png|jpe?g|svg)$/,
+  ),
 );
 
 function App() {
@@ -68,39 +63,34 @@ function App() {
                   <div className="hero-text">
                     <h2>Hello, I'm</h2>
                     <h1>Sandeep C</h1>
-                    <h3>
-                      Infinity Developer/ Frontend Developer/ Fullstack
-                      developer
-                    </h3>
-                    <p>Kony | React JS | Advanced JavaScript | Redux</p>
+                    <h3>Reactjs Developer/ Frontend Developer</h3>
+                    <p>React JS | Kony | Advanced JavaScript | Redux</p>
                   </div>
                 </section>
                 {/* Professional Summary & Skills */}
                 <section id="skills" className="skills-section">
                   <h2>Professional Summary</h2>
                   <p>
-                    Frontend-focused Software Engineer with <b>3.3+ years</b> of
-                    enterprise experience in building scalable applications
-                    using <b>Temenos Infinity</b> (Kony Framework) within
-                    banking and financial domains. Strong expertise in modular
-                    UI development, API integration, and cross-functional
-                    collaboration.
+                    Full Stack Engineer with <b>3+ years</b> of experience in
+                    designing and developing{" "}
+                    <b>scalable, high-performance web applications</b> using{" "}
+                    <b>React.js and Node.js</b>. Strong expertise in building{" "}
+                    <b>modular, reusable UI components</b>, integrating{" "}
+                    <b>RESTful APIs</b>, and optimizing application performance
+                    for <b>real-time user interactions</b>.
                     <br />
                     <br />
-                    Additionally, possess hands-on experience in{" "}
+                    Experienced in delivering{" "}
+                    <b>enterprise-grade banking solutions</b> using{" "}
+                    <b>Temenos Infinity (Kony)</b>, with{" "}
+                    <b>end-to-end ownership</b> of modules including
+                    development, integration, testing, and deployment. Adept at
+                    translating{" "}
                     <b>
-                      React.js, modern JavaScript, Node.js, Express.js, and
-                      MongoDB,
+                      business requirements into scalable technical solutions
                     </b>{" "}
-                    gained through <b>structured self-learning</b> and
-                    real-world sample projects as well. Actively seeking
-                    opportunities as a{" "}
-                    <b>
-                      Frontend / React / MERN/ Software Engineer /Software
-                      developer
-                    </b>
-                    , with <b>flexibility to adapt to new technologies</b> and
-                    role requirements.
+                    and building systems that perform reliably under{" "}
+                    <b>concurrent user loads</b>.
                   </p>
                   <h3>Skills</h3>
                   <ul className="skills-list">
@@ -144,10 +134,10 @@ function App() {
                   </ul>
                   <div className="ctc-section" style={{ marginTop: "24px" }}>
                     <div className="ctc-item">
-                      Current CTC:<span className="ctc-value">13 LPA</span>
+                      Current CTC:<span className="ctc-value">7.02 LPA</span>
                     </div>
                     <div className="ctc-item">
-                      Expected CTC:<span className="ctc-value">10 - 13LPA</span>
+                      Expected CTC:<span className="ctc-value">9 - 12LPA</span>
                     </div>
                   </div>
                 </section>
