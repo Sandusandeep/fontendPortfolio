@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fontendPortfolio/static/css/main.6259ce8e.css",
-    "main.js": "/fontendPortfolio/static/js/main.2e676f7b.js",
+    "main.js": "/fontendPortfolio/static/js/main.b5a95ee0.js",
     "static/js/453.20359781.chunk.js": "/fontendPortfolio/static/js/453.20359781.chunk.js",
     "static/media/Screenshot 2026-01-06 120948.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 120948.444f30a5461370c2ade8.png",
     "static/media/Screenshot 2026-01-06 1209482.png": "/fontendPortfolio/static/media/Screenshot 2026-01-06 1209482.235bbfd2a03c9d4fdb32.png",
@@ -29,11 +29,11 @@
     "static/media/screenshot-2025-11-17-195234.png": "/fontendPortfolio/static/media/screenshot-2025-11-17-195234.1632526e907668216e9b.png",
     "index.html": "/fontendPortfolio/index.html",
     "main.6259ce8e.css.map": "/fontendPortfolio/static/css/main.6259ce8e.css.map",
-    "main.2e676f7b.js.map": "/fontendPortfolio/static/js/main.2e676f7b.js.map",
+    "main.b5a95ee0.js.map": "/fontendPortfolio/static/js/main.b5a95ee0.js.map",
     "453.20359781.chunk.js.map": "/fontendPortfolio/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6259ce8e.css",
-    "static/js/main.2e676f7b.js"
+    "static/js/main.b5a95ee0.js"
   ]
 }
