@@ -125,11 +125,10 @@ function App() {
                       <b>Database:</b> MongoDB
                     </li>
                     <li>
-                      <b>Backend:</b> Node.js, Express.js, API integration
+                      <b>Backend:</b> Node.js, API integration
                     </li>
                     <li>
-                      <b>Tools:</b> Git, GitLab, Maven, Temenos Infinity (Kony
-                      Framework)
+                      <b>Tools:</b> Git, GitLab, SourceTree, VS Code
                     </li>
                   </ul>
                   <div className="ctc-section" style={{ marginTop: "24px" }}>
